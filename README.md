@@ -1,4 +1,4 @@
-# keylogger
+﻿# keylogger
 перехват информации, вводимой с клавиатуры
 
 ### Функционал:
@@ -8,8 +8,8 @@
 
 ### Примеры:
 <h4 align="center">
-  <img alt="common readme" src="examples/ex1">
+  <img alt="common readme" src="examples/ex1.bmp">
 </h4>
 <h4 align="center">
-  <img alt="common readme" src="examples/ex2">
+  <img alt="common readme" src="examples/ex2.bmp">
 </h4>
