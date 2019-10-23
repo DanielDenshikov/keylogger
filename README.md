@@ -11,6 +11,7 @@
 <h4 align="center">
   <img alt="common readme" src="examples/ex1.bmp">
 </h4>
+
 ###### Перехваченная информация
 <h4 align="center">
   <img alt="common readme" src="examples/ex2.bmp">
